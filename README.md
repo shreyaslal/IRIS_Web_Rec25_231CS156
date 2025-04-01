@@ -1,7 +1,7 @@
 # 📚 E-Library Management System
 
 ## 🎥 Demo Video
-[Click here to watch the demo](#) *(Replace with actual link)*
+https://drive.google.com/file/d/12wIrvABoK2qDNf9B1Qaj22F3kEln-LVP/view?usp=drive_link)
 
 ---
 
@@ -153,6 +153,8 @@ npm run dev
 ![image](https://github.com/user-attachments/assets/cad68999-b1d7-4429-bdc3-b59d209d55e5)
 
 ![image](https://github.com/user-attachments/assets/bebf28f5-ac83-4d5b-ad15-5e273dfa0c1f)
+
+
 
 
 
